@@ -5,4 +5,5 @@
 ![image](https://github.com/user-attachments/assets/ef40b33d-d33d-4fff-9a5a-c612d1ee88e2)
 Video- https://youtu.be/F2QRRCx7bNo
 
-
+# checkout my other project
+repo: https://github.com/machaudhari/Land-Surface-Temperature-Downscaling
